@@ -1,0 +1,10 @@
+body{
+    background-attachment: fixed;
+}
+#para1{
+    color: darkblue;
+    background-color: greenyellow;
+}
+.para1{
+    color: rgb(232, 84, 26);
+}
